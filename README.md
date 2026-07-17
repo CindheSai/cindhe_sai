@@ -18,7 +18,7 @@
 
 ## 👋 Introduction
 
-I'm **Sai Mukesh Rao Cindhe**, a Computer Science graduate (B.Sc. Hons.) from India, building my path toward becoming an **AI Engineer**. My work centers on Python, Machine Learning, Deep Learning, and Generative AI — with a growing focus on LLMs, Retrieval-Augmented Generation, and autonomous AI agents. I care about writing clean, purposeful code and building projects that solve real problems rather than chasing trends.
+I'm **Sai Mukesh Rao Cindhe**, a Computer Science Student (B.Sc. Hons.) from India, building my path toward becoming an **AI Engineer**. My work centers on Python, Machine Learning, Deep Learning, and Generative AI — with a growing focus on LLMs, Retrieval-Augmented Generation, and autonomous AI agents. I care about writing clean, purposeful code and building projects that solve real problems rather than chasing trends.
 
 <br/>
 
